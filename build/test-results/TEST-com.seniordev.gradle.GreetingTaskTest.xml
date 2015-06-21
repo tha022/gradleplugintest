@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.seniordev.gradle.GreetingTaskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-06-21T15:03:37" hostname="Thomass-MBP-2" time="1.228">
-  <properties/>
-  <testcase name="canAddTaskToProject" classname="com.seniordev.gradle.GreetingTaskTest" time="1.228"/>
-  <system-out><![CDATA[18:03:38.604 [Test worker] DEBUG o.g.i.r.t.h.JavaSystemPropertiesHttpProxySettings - Found java system property 'http.nonProxyHosts': local|*.local|169.254/16|*.169.254/16. Will ignore proxy settings for these hosts.
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
