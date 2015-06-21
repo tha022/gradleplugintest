@@ -1,0 +1,1 @@
+Ù18:03:38.604 [Test worker] DEBUG o.g.i.r.t.h.JavaSystemPropertiesHttpProxySettings - Found java system property 'http.nonProxyHosts': local|*.local|169.254/16|*.169.254/16. Will ignore proxy settings for these hosts.
